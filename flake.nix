@@ -10,7 +10,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     kwin-effects-forceblur = {
-      url = "github:taj-ny/kwin-effects-forceblur";
+      url = "github:taj-ny/kwin-effects-forceblur/blur/force-blur/fix-x11-csd";
       inputs.nixpkgs.follows = "nixpkgs";
     };
     plasma-manager = {

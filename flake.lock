@@ -277,15 +277,16 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1730468752,
-        "narHash": "sha256-PixWHyqvcwst38jnOunWe/WjwlZ5R327zR/C+e0slAA=",
+        "lastModified": 1731153289,
+        "narHash": "sha256-l/AxHSmOmYBIU3HsCNqwLXvG/gef6ePmhw+dJHAIL3Q=",
         "owner": "taj-ny",
         "repo": "kwin-effects-forceblur",
-        "rev": "411567be19109495f9afe56a2ccf404be0599d86",
+        "rev": "e7e0e44271be5c3a63be08a4d8fac9c65fe2203c",
         "type": "github"
       },
       "original": {
         "owner": "taj-ny",
+        "ref": "blur/force-blur/fix-x11-csd",
         "repo": "kwin-effects-forceblur",
         "type": "github"
       }

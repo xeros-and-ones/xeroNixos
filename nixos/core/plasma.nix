@@ -12,6 +12,8 @@
     displayManager.sddm.enable = true;
     displayManager.defaultSession = "plasmax11";
     displayManager.sddm.autoNumlock = true;
+    displayManager.sddm.extraPackages = with pkgs; [sddm-chili-theme];
+    displayManager.sddm.theme = "sddm-chili-theme";
   };
   environment.systemPackages = with pkgs; [
     kdePackages.qtstyleplugin-kvantum
