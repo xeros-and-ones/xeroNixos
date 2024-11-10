@@ -16,7 +16,7 @@
   environment.systemPackages = with pkgs; [
     kdePackages.qtstyleplugin-kvantum
     kdePackages.sddm-kcm
-    laya-kde
+    layan-kde
     layan-gtk-theme
   ];
 }
